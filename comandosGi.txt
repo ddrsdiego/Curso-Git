@@ -3,3 +3,5 @@ git init --> Informa ao git que a pasta deve ser controla, será usado no contro
 	git add <file-name> --> Adiciona um arquivo específico que não está rastreado ao controle de versão.
 	git add --all -- > Adiciona todos os arquivo que não estão rastreados ao controle de versão.
 	git commit -m <Mensagem> --> Realiza as gravações no repositório.
+	
+Criando e controlando repositórios.	
