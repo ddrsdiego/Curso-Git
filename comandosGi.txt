@@ -4,4 +4,7 @@ git init --> Informa ao git que a pasta deve ser controla, será usado no contro
 	git add --all -- > Adiciona todos os arquivo que não estão rastreados ao controle de versão.
 	git commit -m <Mensagem> --> Realiza as gravações no repositório.
 	
-Criando e controlando repositórios.	
+Criando e controlando repositórios.
+	git log --> Retorna todos os commits realizados por data decrescente.
+	git remote --> Retorna o repositório remoto controlado pelo gitHub.
+	git remote add <nome do repositório remoto - geralmente utilizado origin> <url fornececida pelo Git Hub para repositório remoto>
